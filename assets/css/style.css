@@ -207,7 +207,8 @@ a.single-about,
 =====================*/
 
 .logo-area img {
-  width: 50px;
+  margin-top: -20px;
+  width: 70px;
   margin-bottom: 70px;  
 }
 
